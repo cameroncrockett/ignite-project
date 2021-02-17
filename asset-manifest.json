@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/ignite-project/static/js/main.9466acee.chunk.js",
-    "main.js.map": "/ignite-project/static/js/main.9466acee.chunk.js.map",
+    "main.js": "/ignite-project/static/js/main.32852c9b.chunk.js",
+    "main.js.map": "/ignite-project/static/js/main.32852c9b.chunk.js.map",
     "runtime-main.js": "/ignite-project/static/js/runtime-main.3153fb57.js",
     "runtime-main.js.map": "/ignite-project/static/js/runtime-main.3153fb57.js.map",
     "static/js/2.a7c8c487.chunk.js": "/ignite-project/static/js/2.a7c8c487.chunk.js",
@@ -21,6 +21,6 @@
   "entrypoints": [
     "static/js/runtime-main.3153fb57.js",
     "static/js/2.a7c8c487.chunk.js",
-    "static/js/main.9466acee.chunk.js"
+    "static/js/main.32852c9b.chunk.js"
   ]
 }
