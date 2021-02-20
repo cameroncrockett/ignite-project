@@ -12,14 +12,7 @@ import { smallImage } from "../util";
 
 const Game = ({ name, released, image, id }) => {
   const stringPathId = id.toString();
-  // Rearrange Date
-  const rearrangeDate = (date) => {
-    const year = date.slice(0, 4);
-    const newDate = date.slice(5) + "-" + year;
-    return newDate;
-  };
 
-  //  console.log({ released });
   //Load Detail Handler
   const dispatch = useDispatch();
   const loadDetailHandler = () => {
